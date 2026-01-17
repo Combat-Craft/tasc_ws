@@ -15,3 +15,7 @@ repositories:
     type: git
     url: https://github.com/Combat-Craft/tasc_bringup.git
     version: main
+  tasc_autonomy:
+    type: git
+    url: https://github.com/Combat-Craft/tasc_autonomy.git
+    version: main
